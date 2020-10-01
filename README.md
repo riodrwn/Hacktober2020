@@ -18,12 +18,12 @@
 Happy Hacktober! :octocat: This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕.
 
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
-###### <a href="https://github.com/gawangnich/HacktoberFest2020/blob/master/contributor.md" target="blank">https://github.com/gawangnich/HacktoberFest2020/blob/master/contributor.md</a> and that counts as your first PR.
+###### <a href="https://github.com/riodelord/Hacktober2020/blob/master/contributor.md" target="blank">https://github.com/riodelord/Hacktober2020/blob/master/contributor.md</a> and that counts as your first PR.
 
 🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/gawangnich/HacktoberFest2020/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
-### Check Contributor at: <a href="https://gawangnich.github.io/HacktoberFest2020/" target="blank"> https://gawangnich.github.io/HacktoberFest2020/ </a>
+### Check Contributor at: <a href="https://riodelord.github.io/Hacktober2020/" target="blank"> https://riodelord.github.io/Hacktober2020/ </a>
 
 #### Read Here or Refer to <a href="https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide" target="blank">  https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide </a> for more.
 
@@ -38,7 +38,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 
 ###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, GawangNich is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
 
-<a href="https://github.com/gawangnich/HacktoberFest2020" target="blank">https://github.com/gawangnich/HacktoberFest2020</a>
+<a href="https://riodelord.github.io/Hacktober2020/" target="blank"> https://riodelord.github.io/Hacktober2020/ </a>
 
 ###### When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
 
