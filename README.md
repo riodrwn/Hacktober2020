@@ -20,7 +20,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just append your name and jobs on our
 ###### <a href="https://github.com/riodelord/Hacktober2020/blob/master/contributor.md" target="blank">https://github.com/riodelord/Hacktober2020/blob/master/contributor.md</a> and that counts as your first PR.
 
-🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/gawangnich/HacktoberFest2020/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
+🎯 In case you are an intermediate or advanced level programmer or developer, we have got you covered too!! Step to our <a href="https://github.com/riodelord/HacktoberFest2020/tree/master/Resources" target="blank"> Resources folder</a> and make contributions as per as your interests.
 
 #### 💻 Also, our website is open to contributions from both frontend and designer fellows who want to help us in making it bigger and better. 
 ### Check Contributor at: <a href="https://riodelord.github.io/Hacktober2020/" target="blank"> https://riodelord.github.io/Hacktober2020/ </a>
@@ -36,7 +36,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 ### 2. Star and Fork this Repository
 ###### You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 
-###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, GawangNich is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
+###### GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, riodelord is the owner of the hacktoberfest repository, so the GitHub URL for this project is: 
 
 <a href="https://riodelord.github.io/Hacktober2020/" target="blank"> https://riodelord.github.io/Hacktober2020/ </a>
 
