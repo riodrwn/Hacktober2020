@@ -1,1 +1,2 @@
 -Rio
+- Jonatas Ferreira (UFCG Computer Science student)
