@@ -1,1 +1,2 @@
 -Rio
+-Rishabh Jha | Student at INDIAN INSTITUTE OF INFORMATION AND TECHNOLOGY, SRICITY | AI/ML enthusiast | Football and Chess lover | git-rishabh-jha |
