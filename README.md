@@ -42,7 +42,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 
 ###### When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
 
-### 3. Clone the Repository
+### 3. Clone the Repository into your account
 
 ###### To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
 
